@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ozaki218/typescript-for-javascript-developers#readme",
   "description": "",
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
 }
